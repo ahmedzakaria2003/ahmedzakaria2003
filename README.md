@@ -4,10 +4,6 @@
 
 ---
 
-
-
----
-
 - 💼 Currently building real-world full-stack web apps using **Angular** & **.NET Core**
 - 🧠 Learning more about **backend architecture**, **Clean Architecture**, and **modern UI/UX**
 - ⚡ Passionate about building scalable and secure web applications
