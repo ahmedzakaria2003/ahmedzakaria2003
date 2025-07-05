@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">🚀 Full Stack Developer | Angular & ASP.NET Core Enthusiast</h3>
+
 
 ---
 
@@ -37,7 +37,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Paradigm-20c997?style=for-the-badge)
